@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ka1ea6
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning c# for development using ASP.NET and other frameworks such as Xamerin.
+- 🌱 I’m currently learning c# for development using ASP.NET.
 - 💞️ I’m looking to collaborate on Projects related to Javascript, Python or C#.
 <!-- - 📫 How to reach me  -->
 
